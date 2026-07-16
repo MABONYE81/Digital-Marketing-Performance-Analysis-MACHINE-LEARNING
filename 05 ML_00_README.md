@@ -1,3 +1,6 @@
+<img width="1170" height="650" alt="03c_revenue_forecast" src="https://github.com/user-attachments/assets/8401be5f-fcb6-4462-874c-e78c67abf29f" />
+<img width="1040" height="650" alt="02b_feature_importance" src="https://github.com/user-attachments/assets/5d5da0a6-ed19-42de-8616-f80929f9000c" />
+<img width="650" height="585" alt="02a_confusion_matrix" src="https://github.com/user-attachments/assets/3a04f2cf-cd4d-459c-954b-b116e32e6f25" />
 # 05_MachineLearning — README
 
 ## Where's the dashboard?
